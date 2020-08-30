@@ -1,0 +1,11 @@
+Package                            Version             Location                                      
+---------------------------------- ------------------- ----------------------------------------------
+numpy                              1.18.1              
+pandas                             1.0.5               
+matplotlib                         3.2.1               
+statsmodels                        0.11.0              
+arch                               4.14                
+tensorflow                         2.1.0               
+seaborn                            0.10.0              
+scikit-learn                       0.22.1              
+jupyter                            1.0.0               
